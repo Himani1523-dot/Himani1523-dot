@@ -3,7 +3,7 @@
 
 - 🔭 I build robust backend systems and APIs using FastAPI, focusing on clean architecture, scalability, and AI-ready design. **ERP management system**
 
-- 🌱 🌱 I’m currently learning Applied AI, Machine Learning fundamentals, and production-ready backend system design. **Django, FastAPI, Django REST Framework, SQLAlchemy, Celery, scikit-learn, PyTorch, NumPy, Pandas, Matplotlib**
+- 🌱 🌱 I’m currently learning Applied AI, Machine Learning fundamentals, and production-ready backend system design. **Django, FastAPI,Flask, Django REST Framework, SQLAlchemy, Celery, scikit-learn, PyTorch, NumPy, Pandas, Matplotlib**
 
 - I’m looking to collaborate on backend or AI-driven projects involving Django, FastAPI, and real-world problem solving. **AI-powered Backend Applications**
 
