@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himani</h1>
 <h3 align="center">Software Engineer | Backend & Applied AI | APIs, Systems, ML</h3>
 
-- 🔭 I build robust backend systems and APIs using FastAPI, focusing on clean architecture, scalability, and AI-ready design. **ERP management system**
+- 🔭 I design and develop robust Python backend systems and scalable APIs using FastAPI and Django, applying AI/ML concepts (data pipelines, model integration, and inference workflows) to build intelligent, production-ready applications
 
 - 🌱 I’m currently learning Applied AI, Machine Learning fundamentals, and production-ready backend system design. **Django, FastAPI,Flask, Django REST Framework, SQLAlchemy, Celery, scikit-learn, PyTorch, NumPy, Pandas, Matplotlib**
 
