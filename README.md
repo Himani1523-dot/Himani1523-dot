@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Himani</h1>
-<h3 align="center">Software Engineer | Backend & Applied AI</h3>
+<h3 align="center">Software Engineer | Applied AI & Backend Engineering</h3>
 
-- 🔭 I design and develop robust Python backend systems and scalable APIs using FastAPI and Django, applying AI/ML concepts (data pipelines, model integration, and inference workflows) to build intelligent, production-ready applications
+- 👨‍💻 Building AI-powered applications and backend systems with Python.
 
-- 🌱 I’m currently learning Applied AI, Machine Learning fundamentals, and production-ready backend system design. **Django, FastAPI,Flask, Django REST Framework, SQLAlchemy, Celery, scikit-learn, PyTorch, NumPy, Pandas, Matplotlib**
-
-- I’m looking to collaborate on backend or AI-driven projects involving Django, FastAPI, and real-world problem solving. **AI-powered Backend Applications**
+- 🤖 Actively developing LLM applications, AI agents, and Retrieval-Augmented Generation (RAG) systems using LangChain, LangGraph, and LlamaIndex.
+  
+- 👯 Open to collaborating on Applied AI,backend engineering,and intelligent automation projects.
 
 - 👨‍💻 All of my projects are available on GitHub [https://github.com/Himani1523-dot](https://github.com/Himani1523-dot)
 
-- 💬 Ask me about **Django, FastAPI, REST APIs, background tasks with Celery, applied AI in production, and system design**
+- 💬 Ask me about **AI Systems, Scalable Backends, and Software Architecture.**
 
 - 📫 How to reach me **himani.sharma2315@gmail.com**
-
-- ⚡ Fun fact **I learn best by building and breaking things—especially backend systems and AI models.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
