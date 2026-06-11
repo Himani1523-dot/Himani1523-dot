@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himani</h1>
-<h3 align="center">Software Engineer | Backend & Applied AI | APIs, Systems, ML</h3>
+<h3 align="center">Software Engineer | Backend & Applied AI</h3>
 
 - 🔭 I design and develop robust Python backend systems and scalable APIs using FastAPI and Django, applying AI/ML concepts (data pipelines, model integration, and inference workflows) to build intelligent, production-ready applications
 
